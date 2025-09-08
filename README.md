@@ -1,1 +1,1 @@
-# Chat-Bot für LF6 bei Hussmann am BKLK
+Die Setup Datei muss als erstes ausgeführt werden, damit die data.sqlite ertellt wird.
